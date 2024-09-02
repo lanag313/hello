@@ -1,1 +1,1 @@
-print('tes123')
+print('tes12')
